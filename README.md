@@ -33,7 +33,9 @@ Based on the performed analysis on the ride-sharing data and results achieved, s
 
 - It would be highly recommended for PyBer to continue as well as increase their investment in the urban cities and encouraging the drivers even more by slightly increasing the fare rates since this city type is performing very well by having the highest total fares and higher number of rides among other city types. Hence, this would help PyBer to increase their chances of making even more profit.
 <br>
+
 - Secondly, placing a limit on the fare per ride in rural cities and implementing some program to increase the number of drivers. As this would result in a much more affordable service for the passengers which would cause the total number of rides to increase. Additionally, having enough drivers results in the ride demand to be met, hence resulting in higher total fares.
 <br>
+
 - Thirdly, it is recommended for PyBer to focus their efforts in marketing and advertising by implementing special deals biweekly since the total fare is mainly steady throughout majority of the weeks between January to April in all the city types. By this way PyBer will be able to increase number of rides thus, generating more profit monthly and hence yearly.
 
