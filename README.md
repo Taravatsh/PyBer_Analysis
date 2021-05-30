@@ -16,7 +16,7 @@ This section of the report focuses on the results achieved from the analysis per
 
 Figure below depicts the summary DataFrame of the ride-sharing data which includes the total rides, total drivers, average fare per ride and average fare per driver that has been created with the use of **groupby()**, **count()**, and **sum()** functions. 
 
-![PyBer Summary Dataframe](Resources/PyBer_Summary_DataFrame.png)
+![PyBer Summary Dataframe](analysis/PyBer_Summary_DataFrame.png)
 
 As it can be seen in the PyBer summary DataFrame, the total number of drivers and rides is higher in urban cities. Whereas, rural cities have the least number of drivers and rides among suburban and urban city types. Thus, by looking at the number of rides and drivers in each of the city types, urban cities generate highest amount of revenue while rural cities make the least amount of profit as indicated in the total fares column. 
 
